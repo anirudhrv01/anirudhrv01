@@ -1,14 +1,12 @@
 <div align="center">
 
-# Hi, I'm Anirudh Raj V 👋
+#  Anirudh Raj V 
 
-### AI & Data Science Student • AI Engineer • Data Analyst • Full Stack Developer
+**```AI & Data Science Student • AI Engineer • Data Analyst • Full Stack Developer```**
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Building+Intelligent+Systems;Machine+Learning+%7C+Computer+Vision+%7C+AI;Transforming+Data+Into+Insights;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 
 <br>
-
-<img src="https://komarev.com/ghpvc/?username=anirudhrv01&label=Profile%20Views&color=0891b2&style=for-the-badge" />
 
 </div>
 
@@ -137,7 +135,6 @@ AI Agents
 
 ## 🎵 Now Playing
 
-> Replace YOUR_SPOTIFY_USER_ID with your Spotify User ID
 
 [![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31wcx42orc44zsgpbq3zq4n4vne4\&cover_image=true\&theme=default)](https://spotify-github-profile.vercel.app/api/view)
 
