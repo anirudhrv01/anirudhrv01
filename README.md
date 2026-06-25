@@ -14,7 +14,7 @@
 
 <img align="right" alt="AI Character" width="220" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2VlZGxheW91d3Zha3NvYnhoMDU1amV3dmJ3a2hhZmV0MmU3dG5wayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3GjfgbG12klX2/giphy.gif">
 
-## 🚀 About Me
+## About Me
 
 I'm a Final Year B.Tech student in **Artificial Intelligence and Data Science** with a passion for **Machine Learning, Computer Vision, Data Analytics, and Full Stack Development**. I enjoy building AI-driven solutions that transform complex data into meaningful insights, whether through image analysis, voice processing, or intelligent applications. Always curious and eager to learn, I'm constantly exploring emerging technologies and pushing my skills beyond the classroom.
 
@@ -22,7 +22,7 @@ I'm a Final Year B.Tech student in **Artificial Intelligence and Data Science** 
 
 ---
 
-## 💻 terminal.exe
+##  terminal.exe
 
 ```bash
 anirudh@github:~$ whoami
@@ -44,7 +44,7 @@ AI Agents
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Languages
 
@@ -69,18 +69,18 @@ AI Agents
 
 ---
 
-## 🌱 Currently Exploring
+##  Currently Exploring
 
-* 🔍 Retrieval-Augmented Generation (RAG)
-* ⛓️ LangChain & LLM Application Development
-* 🤖 AI Agents & Agentic Workflows
-* 🗄️ Vector Databases
-* 🧠 Prompt Engineering
-* 🚀 Advanced AI System Design
+*  Retrieval-Augmented Generation (RAG)
+*  LangChain & LLM Application Development
+*  AI Agents & Agentic Workflows
+*  Vector Databases
+*  Prompt Engineering
+*  Advanced AI System Design
 
 ---
 
-## 🔥 Featured Projects
+##  Featured Projects
 
 <p align="center">
   <a href="https://github.com/anirudhrv01/Skin-Type-Detection">
@@ -104,7 +104,7 @@ AI Agents
 
 ---
 
-## 🧠 Areas of Interest
+##  Areas of Interest
 
 * Artificial Intelligence
 * Machine Learning
@@ -126,7 +126,7 @@ AI Agents
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 
 <p align="center">
 <a href="mailto:anirudhrv6@gmail.com">
